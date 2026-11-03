@@ -1,0 +1,5 @@
+Bu dosya gizli bir iyilestirme icerir.
+
+Aslinda hicbir sey degismedi. Ama PR acildi.
+
+Gizli: Bazen degisim de kaybolur.
